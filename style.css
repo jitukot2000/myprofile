@@ -1,0 +1,106 @@
+h1.resume{
+    text-align: center;
+    text-decoration: underline;
+    line-height: 0.8;
+}
+
+h3.name{
+    text-align: center;
+    line-height: 0.5;
+    font-weight: normal;
+}
+
+h3.address{
+    text-align: center;
+    line-height: 0.5;
+    font-weight: normal;
+}
+
+.contact{
+    text-align: center;
+    line-height: 0.5;
+    font-weight: normal;
+}
+
+.linkedin{
+    text-align: center;
+    line-height: normal;
+}
+
+.linkedin img{
+    margin-top: 20px;
+    width: 20px;
+    height: 20px;
+    align-items: center;
+}
+
+.github{
+    text-align: center;
+}
+
+.github img{
+    margin-top: 20px;
+    width: 25px;
+    height: 25px;
+    align-items: center;
+    border: 1px solid blue;
+}
+
+div.email{
+    text-align: center;
+}
+
+body{
+    line-height: 1;
+}
+
+h3{
+    line-height: 1;
+}
+
+div.border {
+    margin-top: -10px;
+    border: 1px solid black;
+    padding-left: 60px;
+    font-family: Arial, Helvetica, sans-serif
+  }
+  .pic {
+    height: 120px;
+}
+
+/* Resize photopgaph */
+.pic img {
+    width: 200px;
+    height: 230px;
+   /* float: right;*/
+    border: 2px solid black;
+    position: absolute;
+    top: 50px;
+    right: 16px;
+    margin-right: 120px;
+}
+
+
+#exp1,#exp2,#exp3,#exp4,#exp5,#exp6,#exp8 {
+    margin: 3px;
+    
+}
+
+#exp7
+{
+    margin: 3px;
+    margin-left: 15px;
+}
+
+#obj
+{
+    margin: -5px;
+
+    
+}
+i:hover
+{
+    background-color: blue;
+
+    
+}
